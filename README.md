@@ -1,4 +1,4 @@
-# Herrwelt Software Solutions ![Herrwelt Logo](https://raw.githubusercontent.com/jayesh1306/company.github.io/cad93a8a49905b9137e74c2c9cbe28a3ca69595b/img/logo.png?width=40&height=40)
+# Herrwelt Software Solutions ![Herrwelt Logo](https://raw.githubusercontent.com/jayesh1306/company.github.io/cad93a8a49905b9137e74c2c9cbe28a3ca69595b/img/logo.png?size=40)
 
 ## World is better place, making it more better.
 
